@@ -8,5 +8,8 @@ public class Calculator(){
     return a-b;
   }
 
+  public int multifly(int a, int b){
+    return a*b;
+  }
 
 }
